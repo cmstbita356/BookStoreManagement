@@ -1,0 +1,319 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="db_hieusachModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Book">
+    <Key>
+      <PropertyRef Name="BookId" />
+    </Key>
+    <Property Name="BookId" Type="varchar" MaxLength="15" Nullable="false" />
+    <Property Name="BookName" Type="nvarchar" MaxLength="255" />
+    <Property Name="BookType" Type="varchar" MaxLength="15" />
+    <Property Name="BookAuthor" Type="nvarchar" MaxLength="255" />
+    <Property Name="BookPublisher" Type="varchar" MaxLength="255" />
+    <Property Name="BookPrice" Type="int" />
+    <Property Name="Status" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="BookType">
+    <Key>
+      <PropertyRef Name="TypeId" />
+    </Key>
+    <Property Name="TypeId" Type="varchar" MaxLength="15" Nullable="false" />
+    <Property Name="TypeName" Type="nvarchar" MaxLength="255" />
+    <Property Name="Status" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Customer">
+    <Key>
+      <PropertyRef Name="CustomerId" />
+    </Key>
+    <Property Name="CustomerId" Type="varchar" MaxLength="15" Nullable="false" />
+    <Property Name="CustomerName" Type="nvarchar" MaxLength="255" />
+    <Property Name="CustomerPhone" Type="varchar" MaxLength="20" />
+    <Property Name="CustomerEmail" Type="varchar" MaxLength="255" />
+    <Property Name="Status" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="DamagedBook">
+    <Key>
+      <PropertyRef Name="BookId" />
+    </Key>
+    <Property Name="BookId" Type="varchar" MaxLength="15" Nullable="false" />
+    <Property Name="DamagedQuantity" Type="int" />
+    <Property Name="DamagedTotal" Type="int" />
+    <Property Name="Liquidated" Type="int" />
+    <Property Name="Status" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Degree">
+    <Key>
+      <PropertyRef Name="DegId" />
+    </Key>
+    <Property Name="DegId" Type="varchar" MaxLength="15" Nullable="false" />
+    <Property Name="DegName" Type="nvarchar" MaxLength="255" />
+    <Property Name="Status" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Employee">
+    <Key>
+      <PropertyRef Name="EmplId" />
+    </Key>
+    <Property Name="EmplId" Type="varchar" MaxLength="15" Nullable="false" />
+    <Property Name="EmplName" Type="nvarchar" MaxLength="255" />
+    <Property Name="EmplDegree" Type="varchar" MaxLength="15" />
+    <Property Name="EmplPosition" Type="varchar" MaxLength="15" />
+    <Property Name="EmplAddress" Type="nvarchar" MaxLength="255" />
+    <Property Name="EmplPhone" Type="varchar" MaxLength="20" />
+    <Property Name="EmplUsername" Type="varchar" MaxLength="255" />
+    <Property Name="EmplPassword" Type="varchar" MaxLength="255" />
+    <Property Name="Status" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Import">
+    <Key>
+      <PropertyRef Name="ImportId" />
+    </Key>
+    <Property Name="ImportId" Type="varchar" MaxLength="15" Nullable="false" />
+    <Property Name="EmplId" Type="varchar" MaxLength="15" />
+    <Property Name="VendorId" Type="varchar" MaxLength="15" Nullable="false" />
+    <Property Name="ImportDate" Type="varchar" MaxLength="20" />
+    <Property Name="ImportTotal" Type="int" />
+    <Property Name="Status" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ImportDetail">
+    <Key>
+      <PropertyRef Name="ImportId" />
+      <PropertyRef Name="BookId" />
+    </Key>
+    <Property Name="ImportId" Type="varchar" MaxLength="15" Nullable="false" />
+    <Property Name="BookId" Type="varchar" MaxLength="15" Nullable="false" />
+    <Property Name="BookQuantity" Type="int" />
+    <Property Name="UnitCost" Type="int" />
+    <Property Name="Status" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Position">
+    <Key>
+      <PropertyRef Name="PtnId" />
+    </Key>
+    <Property Name="PtnId" Type="varchar" MaxLength="15" Nullable="false" />
+    <Property Name="PtnName" Type="nvarchar" MaxLength="255" />
+    <Property Name="Status" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Receipt">
+    <Key>
+      <PropertyRef Name="ReceiptId" />
+    </Key>
+    <Property Name="ReceiptId" Type="varchar" MaxLength="15" Nullable="false" />
+    <Property Name="SaleEmployeeId" Type="varchar" MaxLength="15" />
+    <Property Name="CustomerId" Type="varchar" MaxLength="15" />
+    <Property Name="SaleDate" Type="varchar" MaxLength="20" />
+    <Property Name="ReceiptTotal" Type="int" />
+    <Property Name="Status" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ReceiptDetail">
+    <Key>
+      <PropertyRef Name="ReceiptId" />
+      <PropertyRef Name="BookId" />
+    </Key>
+    <Property Name="ReceiptId" Type="varchar" MaxLength="15" Nullable="false" />
+    <Property Name="BookId" Type="varchar" MaxLength="15" Nullable="false" />
+    <Property Name="Quantity" Type="int" />
+    <Property Name="Status" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Stock">
+    <Key>
+      <PropertyRef Name="BookId" />
+    </Key>
+    <Property Name="BookId" Type="varchar" MaxLength="15" Nullable="false" />
+    <Property Name="BookQuantity" Type="int" />
+    <Property Name="Status" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="Vendor">
+    <Key>
+      <PropertyRef Name="VendorId" />
+    </Key>
+    <Property Name="VendorId" Type="varchar" MaxLength="15" Nullable="false" />
+    <Property Name="VendorName" Type="nvarchar" MaxLength="255" />
+    <Property Name="VendorPhone" Type="varchar" MaxLength="20" />
+    <Property Name="Status" Type="bit" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Book_BookType">
+    <End Role="BookType" Type="Self.BookType" Multiplicity="0..1" />
+    <End Role="Book" Type="Self.Book" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="BookType">
+        <PropertyRef Name="TypeId" />
+      </Principal>
+      <Dependent Role="Book">
+        <PropertyRef Name="BookType" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Employee_Degree">
+    <End Role="Degree" Type="Self.Degree" Multiplicity="0..1" />
+    <End Role="Employee" Type="Self.Employee" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Degree">
+        <PropertyRef Name="DegId" />
+      </Principal>
+      <Dependent Role="Employee">
+        <PropertyRef Name="EmplDegree" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Employee_Position">
+    <End Role="Position" Type="Self.Position" Multiplicity="0..1" />
+    <End Role="Employee" Type="Self.Employee" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Position">
+        <PropertyRef Name="PtnId" />
+      </Principal>
+      <Dependent Role="Employee">
+        <PropertyRef Name="EmplPosition" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Import_Vendor">
+    <End Role="Vendor" Type="Self.Vendor" Multiplicity="1" />
+    <End Role="Import" Type="Self.Import" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Vendor">
+        <PropertyRef Name="VendorId" />
+      </Principal>
+      <Dependent Role="Import">
+        <PropertyRef Name="VendorId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ImportDetail_Book">
+    <End Role="Book" Type="Self.Book" Multiplicity="1" />
+    <End Role="ImportDetail" Type="Self.ImportDetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Book">
+        <PropertyRef Name="BookId" />
+      </Principal>
+      <Dependent Role="ImportDetail">
+        <PropertyRef Name="BookId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ImportDetail_Import">
+    <End Role="Import" Type="Self.Import" Multiplicity="1" />
+    <End Role="ImportDetail" Type="Self.ImportDetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Import">
+        <PropertyRef Name="ImportId" />
+      </Principal>
+      <Dependent Role="ImportDetail">
+        <PropertyRef Name="ImportId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Receipt_Customer">
+    <End Role="Customer" Type="Self.Customer" Multiplicity="0..1" />
+    <End Role="Receipt" Type="Self.Receipt" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customer">
+        <PropertyRef Name="CustomerId" />
+      </Principal>
+      <Dependent Role="Receipt">
+        <PropertyRef Name="CustomerId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Receipt_Employee">
+    <End Role="Employee" Type="Self.Employee" Multiplicity="0..1" />
+    <End Role="Receipt" Type="Self.Receipt" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Employee">
+        <PropertyRef Name="EmplId" />
+      </Principal>
+      <Dependent Role="Receipt">
+        <PropertyRef Name="SaleEmployeeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ReceiptDetail_Book">
+    <End Role="Book" Type="Self.Book" Multiplicity="1" />
+    <End Role="ReceiptDetail" Type="Self.ReceiptDetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Book">
+        <PropertyRef Name="BookId" />
+      </Principal>
+      <Dependent Role="ReceiptDetail">
+        <PropertyRef Name="BookId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ReceiptDetail_Receipt">
+    <End Role="Receipt" Type="Self.Receipt" Multiplicity="1" />
+    <End Role="ReceiptDetail" Type="Self.ReceiptDetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Receipt">
+        <PropertyRef Name="ReceiptId" />
+      </Principal>
+      <Dependent Role="ReceiptDetail">
+        <PropertyRef Name="ReceiptId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="db_hieusachModelStoreContainer">
+    <EntitySet Name="Book" EntityType="Self.Book" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="BookType" EntityType="Self.BookType" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Customer" EntityType="Self.Customer" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DamagedBook" EntityType="Self.DamagedBook" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Degree" EntityType="Self.Degree" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Employee" EntityType="Self.Employee" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Import" EntityType="Self.Import" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ImportDetail" EntityType="Self.ImportDetail" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Position" EntityType="Self.Position" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Receipt" EntityType="Self.Receipt" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ReceiptDetail" EntityType="Self.ReceiptDetail" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Stock" EntityType="Self.Stock" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Vendor" EntityType="Self.Vendor" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Book_BookType" Association="Self.FK_Book_BookType">
+      <End Role="BookType" EntitySet="BookType" />
+      <End Role="Book" EntitySet="Book" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Employee_Degree" Association="Self.FK_Employee_Degree">
+      <End Role="Degree" EntitySet="Degree" />
+      <End Role="Employee" EntitySet="Employee" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Employee_Position" Association="Self.FK_Employee_Position">
+      <End Role="Position" EntitySet="Position" />
+      <End Role="Employee" EntitySet="Employee" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Import_Vendor" Association="Self.FK_Import_Vendor">
+      <End Role="Vendor" EntitySet="Vendor" />
+      <End Role="Import" EntitySet="Import" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ImportDetail_Book" Association="Self.FK_ImportDetail_Book">
+      <End Role="Book" EntitySet="Book" />
+      <End Role="ImportDetail" EntitySet="ImportDetail" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ImportDetail_Import" Association="Self.FK_ImportDetail_Import">
+      <End Role="Import" EntitySet="Import" />
+      <End Role="ImportDetail" EntitySet="ImportDetail" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Receipt_Customer" Association="Self.FK_Receipt_Customer">
+      <End Role="Customer" EntitySet="Customer" />
+      <End Role="Receipt" EntitySet="Receipt" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Receipt_Employee" Association="Self.FK_Receipt_Employee">
+      <End Role="Employee" EntitySet="Employee" />
+      <End Role="Receipt" EntitySet="Receipt" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ReceiptDetail_Book" Association="Self.FK_ReceiptDetail_Book">
+      <End Role="Book" EntitySet="Book" />
+      <End Role="ReceiptDetail" EntitySet="ReceiptDetail" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ReceiptDetail_Receipt" Association="Self.FK_ReceiptDetail_Receipt">
+      <End Role="Receipt" EntitySet="Receipt" />
+      <End Role="ReceiptDetail" EntitySet="ReceiptDetail" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

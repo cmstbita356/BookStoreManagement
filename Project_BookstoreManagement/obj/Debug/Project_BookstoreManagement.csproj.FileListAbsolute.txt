@@ -1,0 +1,655 @@
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\Project_BookstoreManagement.exe.config
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\Project_BookstoreManagement.exe
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\Project_BookstoreManagement.pdb
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\AutoMapper.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\EntityFramework.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\EnvDTE.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\stdole.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\AutoMapper.xml
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\EntityFramework.xml
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.csproj.AssemblyReference.cache
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.Properties.Resources.resources
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.csproj.GenerateResource.cache
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.csproj.CoreCompileInputs.cache
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.csproj.CopyComplete
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.exe
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.pdb
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\Microsoft.MSXML.dll
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.SanPhamUC.resources
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.AdminForm.resources
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.LoaiSanPhamUC.resources
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.NhanVienUC.resources
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.PhanCongUC.resources
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.NhapHangUC.resources
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.ChiTietHDNhapUC.resources
+C:\Users\quang\Documents\Projects_C#\Project_BookstoreManagement\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.TonKho.resources
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\Project_BookstoreManagement.exe.config
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\Project_BookstoreManagement.exe
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\Project_BookstoreManagement.pdb
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\AutoMapper.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\EnvDTE.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\stdole.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\AutoMapper.xml
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.AdminForm.resources
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.ChiTietHDNhapUC.resources
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.LoaiSanPhamUC.resources
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.NhanVienUC.resources
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.NhapHangUC.resources
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.PhanCongUC.resources
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.SanPhamUC.resources
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.TonKho.resources
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.Properties.Resources.resources
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.csproj.CopyComplete
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.exe
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.pdb
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.DoanhThuThang.resources
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.BCTonKho.resources
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.BCSanPham.resources
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\obj\Debug\RdlCompile.cache
+C:\Users\Admin\Desktop\Đồ án Win\Project_BookstoreManagement\Project_BookstoreManagement\obj\Debug\RdlCompile.compiled
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\Project_BookstoreManagement.exe.config
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\Project_BookstoreManagement.exe
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\Project_BookstoreManagement.pdb
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\AutoMapper.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\EntityFramework.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\EnvDTE.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\stdole.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\Microsoft.MSXML.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\AutoMapper.xml
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\EntityFramework.xml
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.csproj.AssemblyReference.cache
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.AdminForm.resources
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.ChiTietHDNhapUC.resources
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.LoaiSanPhamUC.resources
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.NhanVienUC.resources
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.NhapHangUC.resources
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.PhanCongUC.resources
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.SanPhamUC.resources
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.TonKho.resources
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.Properties.Resources.resources
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.csproj.GenerateResource.cache
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.csproj.CoreCompileInputs.cache
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.csproj.CopyComplete
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.exe
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.pdb
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.BCSanPhamUC.resources
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.BCTonKhoUC.resources
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.DoanhThuThangUC.resources
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.LoginForm.resources
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.EmployeeForm.resources
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.Hóa_đơn.resources
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.UCCustomer.resources
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.UCHome.resources
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.UCLSP.resources
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.UCProfile.resources
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.UCTaiKhoan.resources
+C:\Users\quang\Desktop\Quang\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.UCTaoHoaDon.resources
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\Project_BookstoreManagement.exe.config
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\Project_BookstoreManagement.exe
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\Project_BookstoreManagement.pdb
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\AutoMapper.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\EntityFramework.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\EnvDTE.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\stdole.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\Microsoft.MSXML.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\AutoMapper.xml
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\EntityFramework.xml
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.csproj.AssemblyReference.cache
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.AdminForm.resources
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.BCSanPhamUC.resources
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.BCTonKhoUC.resources
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.ChiTietHDNhapUC.resources
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.DoanhThuThangUC.resources
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.EmployeeForm.resources
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.Hóa_đơn.resources
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.LoaiSanPhamUC.resources
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.LoginForm.resources
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.NhanVienUC.resources
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.NhapHangUC.resources
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.PhanCongUC.resources
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.SanPhamUC.resources
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.TonKho.resources
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.UCCustomer.resources
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.UCHome.resources
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.UCLSP.resources
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.UCProfile.resources
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.UCTaiKhoan.resources
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.UCTaoHoaDon.resources
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.Properties.Resources.resources
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.csproj.GenerateResource.cache
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.csproj.CoreCompileInputs.cache
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.csproj.CopyComplete
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.exe
+C:\Users\quang\Desktop\Project\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.pdb
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\Project_BookstoreManagement.exe.config
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\Project_BookstoreManagement.exe
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\Project_BookstoreManagement.pdb
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\AutoMapper.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\EntityFramework.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\EnvDTE.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\stdole.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\Microsoft.MSXML.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\AutoMapper.xml
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\EntityFramework.xml
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.csproj.AssemblyReference.cache
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.AdminForm.resources
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.BCSanPhamUC.resources
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.BCTonKhoUC.resources
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.ChiTietHDNhapUC.resources
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.DoanhThuThangUC.resources
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.EmployeeForm.resources
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.Hóa_đơn.resources
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.LoaiSanPhamUC.resources
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.LoginForm.resources
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.NhanVienUC.resources
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.NhapHangUC.resources
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.PhanCongUC.resources
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.SanPhamUC.resources
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.TonKho.resources
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.UCCustomer.resources
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.UCHome.resources
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.UCLSP.resources
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.UCProfile.resources
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.UCTaiKhoan.resources
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.UCTaoHoaDon.resources
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.Properties.Resources.resources
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.csproj.GenerateResource.cache
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.csproj.CoreCompileInputs.cache
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.csproj.CopyComplete
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.exe
+C:\Users\quang\Desktop\Source Code\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.pdb
+C:\Users\quang\Documents\Projects_C#\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.csproj.AssemblyReference.cache
+C:\Users\quang\Documents\Projects_C#\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\quang\Documents\Projects_C#\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.AdminForm.resources
+C:\Users\quang\Documents\Projects_C#\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.BCSanPhamUC.resources
+C:\Users\quang\Documents\Projects_C#\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.BCTonKhoUC.resources
+C:\Users\quang\Documents\Projects_C#\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.ChiTietHDNhapUC.resources
+C:\Users\quang\Documents\Projects_C#\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.DoanhThuThangUC.resources
+C:\Users\quang\Documents\Projects_C#\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.EmployeeForm.resources
+C:\Users\quang\Documents\Projects_C#\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.Hóa_đơn.resources
+C:\Users\quang\Documents\Projects_C#\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.LoaiSanPhamUC.resources
+C:\Users\quang\Documents\Projects_C#\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.LoginForm.resources
+C:\Users\quang\Documents\Projects_C#\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.NhanVienUC.resources
+C:\Users\quang\Documents\Projects_C#\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.NhapHangUC.resources
+C:\Users\quang\Documents\Projects_C#\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.PhanCongUC.resources
+C:\Users\quang\Documents\Projects_C#\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.SanPhamUC.resources
+C:\Users\quang\Documents\Projects_C#\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.TonKho.resources
+C:\Users\quang\Documents\Projects_C#\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.UCCustomer.resources
+C:\Users\quang\Documents\Projects_C#\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.UCHome.resources
+C:\Users\quang\Documents\Projects_C#\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.UCLSP.resources
+C:\Users\quang\Documents\Projects_C#\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.UCProfile.resources
+C:\Users\quang\Documents\Projects_C#\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.UCTaiKhoan.resources
+C:\Users\quang\Documents\Projects_C#\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.UCTaoHoaDon.resources
+C:\Users\quang\Documents\Projects_C#\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.Properties.Resources.resources
+C:\Users\quang\Documents\Projects_C#\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.csproj.GenerateResource.cache
+C:\Users\quang\Documents\Projects_C#\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.csproj.CoreCompileInputs.cache
+C:\Users\quang\Documents\Projects_C#\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.exe
+C:\Users\quang\Documents\Projects_C#\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.pdb
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.csproj.AssemblyReference.cache
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.csproj.SuggestedBindingRedirects.cache
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.AdminForm.resources
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.BookUC.resources
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.CustomerUC.resources
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.EmployeeForm.resources
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.Hóa_đơn.resources
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.LiquidateUC.resources
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.LoginForm.resources
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.UCProfile.resources
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.UCTaiKhoan.resources
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.UCTaoHoaDon.resources
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.Properties.Resources.resources
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.csproj.GenerateResource.cache
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.csproj.CoreCompileInputs.cache
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.ImportDetailUC.resources
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.EmployeeUC.resources
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.ImportUC.resources
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.UCGhiNhanHuHong.resources
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\Project_BookstoreManagement.exe.config
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\Project_BookstoreManagement.exe
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\Project_BookstoreManagement.pdb
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\AutoMapper.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\EntityFramework.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\ShockwaveFlashObjects.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\EnvDTE.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\stdole.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\Microsoft.MSXML.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\AutoMapper.xml
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\EntityFramework.xml
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.csproj.CopyComplete
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.exe
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.pdb
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.RevenueReportUC.resources
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.LiquidationReportUC.resources
+D:\Projects\GitHub\TaiLieuDaiHoc\Môn chuyên ngành\CNPM\MaNguon\Project_BookstoreManagement\obj\Debug\Project_BookstoreManagement.PL.StockReportUC.resources

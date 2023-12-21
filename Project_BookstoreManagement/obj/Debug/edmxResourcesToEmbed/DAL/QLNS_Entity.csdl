@@ -1,0 +1,348 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QLNSModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="QLNSEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="CaLams" EntityType="QLNSModel.CaLam" />
+    <EntitySet Name="ChiTietHDBans" EntityType="QLNSModel.ChiTietHDBan" />
+    <EntitySet Name="ChiTietHDNhaps" EntityType="QLNSModel.ChiTietHDNhap" />
+    <EntitySet Name="HDBanHangs" EntityType="QLNSModel.HDBanHang" />
+    <EntitySet Name="HDNhapHangs" EntityType="QLNSModel.HDNhapHang" />
+    <EntitySet Name="KhachHangs" EntityType="QLNSModel.KhachHang" />
+    <EntitySet Name="LoaiSanPhams" EntityType="QLNSModel.LoaiSanPham" />
+    <EntitySet Name="NhaCungCaps" EntityType="QLNSModel.NhaCungCap" />
+    <EntitySet Name="NhanViens" EntityType="QLNSModel.NhanVien" />
+    <EntitySet Name="PhanCongs" EntityType="QLNSModel.PhanCong" />
+    <EntitySet Name="SanPhams" EntityType="QLNSModel.SanPham" />
+    <EntitySet Name="TonKhoes" EntityType="QLNSModel.TonKho" />
+    <AssociationSet Name="FK_PhanCong_CaLam" Association="QLNSModel.FK_PhanCong_CaLam">
+      <End Role="CaLam" EntitySet="CaLams" />
+      <End Role="PhanCong" EntitySet="PhanCongs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ChiTietHDBan_HDBanHang" Association="QLNSModel.FK_ChiTietHDBan_HDBanHang">
+      <End Role="HDBanHang" EntitySet="HDBanHangs" />
+      <End Role="ChiTietHDBan" EntitySet="ChiTietHDBans" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ChiTietHDBan_SanPham" Association="QLNSModel.FK_ChiTietHDBan_SanPham">
+      <End Role="SanPham" EntitySet="SanPhams" />
+      <End Role="ChiTietHDBan" EntitySet="ChiTietHDBans" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ChiTietHDNhap_HDNhapHang" Association="QLNSModel.FK_ChiTietHDNhap_HDNhapHang">
+      <End Role="HDNhapHang" EntitySet="HDNhapHangs" />
+      <End Role="ChiTietHDNhap" EntitySet="ChiTietHDNhaps" />
+    </AssociationSet>
+    <AssociationSet Name="KF_ChiTietHDNhap_SanPham" Association="QLNSModel.KF_ChiTietHDNhap_SanPham">
+      <End Role="SanPham" EntitySet="SanPhams" />
+      <End Role="ChiTietHDNhap" EntitySet="ChiTietHDNhaps" />
+    </AssociationSet>
+    <AssociationSet Name="FK_HDBanHang_KhachHang" Association="QLNSModel.FK_HDBanHang_KhachHang">
+      <End Role="KhachHang" EntitySet="KhachHangs" />
+      <End Role="HDBanHang" EntitySet="HDBanHangs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_HDBanHang_NhanVien" Association="QLNSModel.FK_HDBanHang_NhanVien">
+      <End Role="NhanVien" EntitySet="NhanViens" />
+      <End Role="HDBanHang" EntitySet="HDBanHangs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_HDNhapHang_CungCap" Association="QLNSModel.FK_HDNhapHang_CungCap">
+      <End Role="NhaCungCap" EntitySet="NhaCungCaps" />
+      <End Role="HDNhapHang" EntitySet="HDNhapHangs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SanPham_LoaiSanPham" Association="QLNSModel.FK_SanPham_LoaiSanPham">
+      <End Role="LoaiSanPham" EntitySet="LoaiSanPhams" />
+      <End Role="SanPham" EntitySet="SanPhams" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PhanCong_NhanVien" Association="QLNSModel.FK_PhanCong_NhanVien">
+      <End Role="NhanVien" EntitySet="NhanViens" />
+      <End Role="PhanCong" EntitySet="PhanCongs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TonKho_SanPham" Association="QLNSModel.FK_TonKho_SanPham">
+      <End Role="SanPham" EntitySet="SanPhams" />
+      <End Role="TonKho" EntitySet="TonKhoes" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="CaLam">
+    <Key>
+      <PropertyRef Name="MaCa" />
+    </Key>
+    <Property Name="MaCa" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="NgayLam" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="BatDau" Type="String" MaxLength="15" FixedLength="true" Unicode="false" />
+    <Property Name="KetThuc" Type="String" MaxLength="15" FixedLength="true" Unicode="false" />
+    <Property Name="TrangThai" Type="Boolean" />
+    <NavigationProperty Name="PhanCongs" Relationship="QLNSModel.FK_PhanCong_CaLam" FromRole="CaLam" ToRole="PhanCong" />
+  </EntityType>
+  <EntityType Name="ChiTietHDBan">
+    <Key>
+      <PropertyRef Name="MaHD" />
+      <PropertyRef Name="MaSP" />
+    </Key>
+    <Property Name="MaHD" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="MaSP" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="SoLuong" Type="Int32" />
+    <Property Name="GiaBan" Type="Int32" />
+    <Property Name="TrangThai" Type="Boolean" />
+    <NavigationProperty Name="HDBanHang" Relationship="QLNSModel.FK_ChiTietHDBan_HDBanHang" FromRole="ChiTietHDBan" ToRole="HDBanHang" />
+    <NavigationProperty Name="SanPham" Relationship="QLNSModel.FK_ChiTietHDBan_SanPham" FromRole="ChiTietHDBan" ToRole="SanPham" />
+  </EntityType>
+  <EntityType Name="ChiTietHDNhap">
+    <Key>
+      <PropertyRef Name="MaHD" />
+      <PropertyRef Name="MaSP" />
+    </Key>
+    <Property Name="MaHD" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="MaSP" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="SoLuong" Type="Int32" />
+    <Property Name="GiaMua" Type="Int32" />
+    <Property Name="TrangThai" Type="Boolean" />
+    <NavigationProperty Name="HDNhapHang" Relationship="QLNSModel.FK_ChiTietHDNhap_HDNhapHang" FromRole="ChiTietHDNhap" ToRole="HDNhapHang" />
+    <NavigationProperty Name="SanPham" Relationship="QLNSModel.KF_ChiTietHDNhap_SanPham" FromRole="ChiTietHDNhap" ToRole="SanPham" />
+  </EntityType>
+  <EntityType Name="HDBanHang">
+    <Key>
+      <PropertyRef Name="MaHD" />
+    </Key>
+    <Property Name="MaHD" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="MaKH" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="MaNV" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="NgayGiao" Type="String" MaxLength="15" FixedLength="false" Unicode="false" />
+    <Property Name="NgayNhan" Type="String" MaxLength="15" FixedLength="false" Unicode="false" />
+    <Property Name="ThanhTien" Type="Int32" />
+    <Property Name="TrangThai" Type="Boolean" />
+    <NavigationProperty Name="ChiTietHDBans" Relationship="QLNSModel.FK_ChiTietHDBan_HDBanHang" FromRole="HDBanHang" ToRole="ChiTietHDBan" />
+    <NavigationProperty Name="KhachHang" Relationship="QLNSModel.FK_HDBanHang_KhachHang" FromRole="HDBanHang" ToRole="KhachHang" />
+    <NavigationProperty Name="NhanVien" Relationship="QLNSModel.FK_HDBanHang_NhanVien" FromRole="HDBanHang" ToRole="NhanVien" />
+  </EntityType>
+  <EntityType Name="HDNhapHang">
+    <Key>
+      <PropertyRef Name="MaHD" />
+    </Key>
+    <Property Name="MaHD" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="MaNCC" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="NgayGiao" Type="String" MaxLength="15" FixedLength="false" Unicode="false" />
+    <Property Name="NgayNhan" Type="String" MaxLength="15" FixedLength="false" Unicode="false" />
+    <Property Name="ThanhTien" Type="Int32" />
+    <Property Name="TrangThai" Type="Boolean" />
+    <NavigationProperty Name="ChiTietHDNhaps" Relationship="QLNSModel.FK_ChiTietHDNhap_HDNhapHang" FromRole="HDNhapHang" ToRole="ChiTietHDNhap" />
+    <NavigationProperty Name="NhaCungCap" Relationship="QLNSModel.FK_HDNhapHang_CungCap" FromRole="HDNhapHang" ToRole="NhaCungCap" />
+  </EntityType>
+  <EntityType Name="KhachHang">
+    <Key>
+      <PropertyRef Name="MaKH" />
+    </Key>
+    <Property Name="MaKH" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="TenKH" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="SDT" Type="String" MaxLength="15" FixedLength="false" Unicode="false" />
+    <Property Name="VIP" Type="Boolean" />
+    <Property Name="TrangThai" Type="Boolean" />
+    <NavigationProperty Name="HDBanHangs" Relationship="QLNSModel.FK_HDBanHang_KhachHang" FromRole="KhachHang" ToRole="HDBanHang" />
+  </EntityType>
+  <EntityType Name="LoaiSanPham">
+    <Key>
+      <PropertyRef Name="MaLoai" />
+    </Key>
+    <Property Name="MaLoai" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="TenLoai" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="TrangThai" Type="Boolean" />
+    <NavigationProperty Name="SanPhams" Relationship="QLNSModel.FK_SanPham_LoaiSanPham" FromRole="LoaiSanPham" ToRole="SanPham" />
+  </EntityType>
+  <EntityType Name="NhaCungCap">
+    <Key>
+      <PropertyRef Name="MaNCC" />
+    </Key>
+    <Property Name="MaNCC" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="TenNCC" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="SDT" Type="String" MaxLength="15" FixedLength="false" Unicode="false" />
+    <Property Name="TrangThai" Type="Boolean" />
+    <NavigationProperty Name="HDNhapHangs" Relationship="QLNSModel.FK_HDNhapHang_CungCap" FromRole="NhaCungCap" ToRole="HDNhapHang" />
+  </EntityType>
+  <EntityType Name="NhanVien">
+    <Key>
+      <PropertyRef Name="MaNV" />
+    </Key>
+    <Property Name="MaNV" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="TenNV" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Username" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="MatKhau" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="ChucVu" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="SDT" Type="String" MaxLength="15" FixedLength="false" Unicode="false" />
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="DiaChi" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="GioiTinh" Type="String" MaxLength="3" FixedLength="false" Unicode="true" />
+    <Property Name="NgaySinh" Type="String" MaxLength="15" FixedLength="false" Unicode="false" />
+    <Property Name="SoCong" Type="Int32" />
+    <Property Name="MucLuong" Type="Single" />
+    <Property Name="TrangThai" Type="Boolean" />
+    <NavigationProperty Name="HDBanHangs" Relationship="QLNSModel.FK_HDBanHang_NhanVien" FromRole="NhanVien" ToRole="HDBanHang" />
+    <NavigationProperty Name="PhanCongs" Relationship="QLNSModel.FK_PhanCong_NhanVien" FromRole="NhanVien" ToRole="PhanCong" />
+  </EntityType>
+  <EntityType Name="PhanCong">
+    <Key>
+      <PropertyRef Name="MaNV" />
+      <PropertyRef Name="MaCa" />
+    </Key>
+    <Property Name="MaNV" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="MaCa" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="TrangThai" Type="Boolean" />
+    <NavigationProperty Name="CaLam" Relationship="QLNSModel.FK_PhanCong_CaLam" FromRole="PhanCong" ToRole="CaLam" />
+    <NavigationProperty Name="NhanVien" Relationship="QLNSModel.FK_PhanCong_NhanVien" FromRole="PhanCong" ToRole="NhanVien" />
+  </EntityType>
+  <EntityType Name="SanPham">
+    <Key>
+      <PropertyRef Name="MaSP" />
+    </Key>
+    <Property Name="MaSP" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="TenSP" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="DVTinh" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="DonGia" Type="Int32" />
+    <Property Name="SoLuong" Type="Int32" />
+    <Property Name="MaLoai" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="TrangThai" Type="Boolean" />
+    <NavigationProperty Name="ChiTietHDBans" Relationship="QLNSModel.FK_ChiTietHDBan_SanPham" FromRole="SanPham" ToRole="ChiTietHDBan" />
+    <NavigationProperty Name="ChiTietHDNhaps" Relationship="QLNSModel.KF_ChiTietHDNhap_SanPham" FromRole="SanPham" ToRole="ChiTietHDNhap" />
+    <NavigationProperty Name="LoaiSanPham" Relationship="QLNSModel.FK_SanPham_LoaiSanPham" FromRole="SanPham" ToRole="LoaiSanPham" />
+    <NavigationProperty Name="TonKhoes" Relationship="QLNSModel.FK_TonKho_SanPham" FromRole="SanPham" ToRole="TonKho" />
+  </EntityType>
+  <EntityType Name="TonKho">
+    <Key>
+      <PropertyRef Name="MaSP" />
+      <PropertyRef Name="Thang" />
+    </Key>
+    <Property Name="MaSP" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="TenSP" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Thang" Type="Int32" Nullable="false" />
+    <Property Name="SoLuongTon" Type="Int32" />
+    <Property Name="TrangThai" Type="Boolean" />
+    <NavigationProperty Name="SanPham" Relationship="QLNSModel.FK_TonKho_SanPham" FromRole="TonKho" ToRole="SanPham" />
+  </EntityType>
+  <Association Name="FK_PhanCong_CaLam">
+    <End Type="QLNSModel.CaLam" Role="CaLam" Multiplicity="1" />
+    <End Type="QLNSModel.PhanCong" Role="PhanCong" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CaLam">
+        <PropertyRef Name="MaCa" />
+      </Principal>
+      <Dependent Role="PhanCong">
+        <PropertyRef Name="MaCa" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ChiTietHDBan_HDBanHang">
+    <End Type="QLNSModel.HDBanHang" Role="HDBanHang" Multiplicity="1" />
+    <End Type="QLNSModel.ChiTietHDBan" Role="ChiTietHDBan" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HDBanHang">
+        <PropertyRef Name="MaHD" />
+      </Principal>
+      <Dependent Role="ChiTietHDBan">
+        <PropertyRef Name="MaHD" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ChiTietHDBan_SanPham">
+    <End Type="QLNSModel.SanPham" Role="SanPham" Multiplicity="1" />
+    <End Type="QLNSModel.ChiTietHDBan" Role="ChiTietHDBan" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SanPham">
+        <PropertyRef Name="MaSP" />
+      </Principal>
+      <Dependent Role="ChiTietHDBan">
+        <PropertyRef Name="MaSP" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ChiTietHDNhap_HDNhapHang">
+    <End Type="QLNSModel.HDNhapHang" Role="HDNhapHang" Multiplicity="1" />
+    <End Type="QLNSModel.ChiTietHDNhap" Role="ChiTietHDNhap" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HDNhapHang">
+        <PropertyRef Name="MaHD" />
+      </Principal>
+      <Dependent Role="ChiTietHDNhap">
+        <PropertyRef Name="MaHD" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="KF_ChiTietHDNhap_SanPham">
+    <End Type="QLNSModel.SanPham" Role="SanPham" Multiplicity="1" />
+    <End Type="QLNSModel.ChiTietHDNhap" Role="ChiTietHDNhap" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SanPham">
+        <PropertyRef Name="MaSP" />
+      </Principal>
+      <Dependent Role="ChiTietHDNhap">
+        <PropertyRef Name="MaSP" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_HDBanHang_KhachHang">
+    <End Type="QLNSModel.KhachHang" Role="KhachHang" Multiplicity="1" />
+    <End Type="QLNSModel.HDBanHang" Role="HDBanHang" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="KhachHang">
+        <PropertyRef Name="MaKH" />
+      </Principal>
+      <Dependent Role="HDBanHang">
+        <PropertyRef Name="MaKH" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_HDBanHang_NhanVien">
+    <End Type="QLNSModel.NhanVien" Role="NhanVien" Multiplicity="1" />
+    <End Type="QLNSModel.HDBanHang" Role="HDBanHang" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NhanVien">
+        <PropertyRef Name="MaNV" />
+      </Principal>
+      <Dependent Role="HDBanHang">
+        <PropertyRef Name="MaNV" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_HDNhapHang_CungCap">
+    <End Type="QLNSModel.NhaCungCap" Role="NhaCungCap" Multiplicity="1" />
+    <End Type="QLNSModel.HDNhapHang" Role="HDNhapHang" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NhaCungCap">
+        <PropertyRef Name="MaNCC" />
+      </Principal>
+      <Dependent Role="HDNhapHang">
+        <PropertyRef Name="MaNCC" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SanPham_LoaiSanPham">
+    <End Type="QLNSModel.LoaiSanPham" Role="LoaiSanPham" Multiplicity="1" />
+    <End Type="QLNSModel.SanPham" Role="SanPham" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="LoaiSanPham">
+        <PropertyRef Name="MaLoai" />
+      </Principal>
+      <Dependent Role="SanPham">
+        <PropertyRef Name="MaLoai" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PhanCong_NhanVien">
+    <End Type="QLNSModel.NhanVien" Role="NhanVien" Multiplicity="1" />
+    <End Type="QLNSModel.PhanCong" Role="PhanCong" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NhanVien">
+        <PropertyRef Name="MaNV" />
+      </Principal>
+      <Dependent Role="PhanCong">
+        <PropertyRef Name="MaNV" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TonKho_SanPham">
+    <End Type="QLNSModel.SanPham" Role="SanPham" Multiplicity="1" />
+    <End Type="QLNSModel.TonKho" Role="TonKho" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SanPham">
+        <PropertyRef Name="MaSP" />
+      </Principal>
+      <Dependent Role="TonKho">
+        <PropertyRef Name="MaSP" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

@@ -1,0 +1,5 @@
+account: nhatquang (Quản lý)
+password: nhatquang
+
+account: phuonganh (Nhân viên thường)
+password: phuonganh111

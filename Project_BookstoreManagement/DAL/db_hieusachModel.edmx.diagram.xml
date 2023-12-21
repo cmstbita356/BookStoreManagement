@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="80826bf6c35347e2b596ed978c4a4775" Name="Diagram1">
+        <EntityTypeShape EntityType="db_hieusachModel.Book" Width="1.5" PointX="3" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_hieusachModel.BookType" Width="1.5" PointX="0.75" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_hieusachModel.Customer" Width="1.5" PointX="0.75" PointY="10.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_hieusachModel.DamagedBook" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_hieusachModel.Degree" Width="1.5" PointX="1.5" PointY="18.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_hieusachModel.Employee" Width="1.5" PointX="0.75" PointY="14" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_hieusachModel.Import" Width="1.5" PointX="3" PointY="23.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_hieusachModel.ImportDetail" Width="1.5" PointX="5.25" PointY="3.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_hieusachModel.Position" Width="1.5" PointX="1.5" PointY="21.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_hieusachModel.Receipt" Width="1.5" PointX="3" PointY="12.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_hieusachModel.ReceiptDetail" Width="1.5" PointX="5.25" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_hieusachModel.Stock" Width="1.5" PointX="0.75" PointY="7.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_hieusachModel.sysdiagram" Width="1.5" PointX="5.75" PointY="7.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="db_hieusachModel.Vendor" Width="1.5" PointX="0.75" PointY="24.125" IsExpanded="true" />
+        <AssociationConnector Association="db_hieusachModel.FK_Book_BookType" ManuallyRouted="false" />
+        <AssociationConnector Association="db_hieusachModel.FK_ImportDetail_Book" ManuallyRouted="false" />
+        <AssociationConnector Association="db_hieusachModel.FK_ReceiptDetail_Book" ManuallyRouted="false" />
+        <AssociationConnector Association="db_hieusachModel.FK_Receipt_Customer" ManuallyRouted="false" />
+        <AssociationConnector Association="db_hieusachModel.FK_Employee_Degree" ManuallyRouted="false" />
+        <AssociationConnector Association="db_hieusachModel.FK_Employee_Position" ManuallyRouted="false" />
+        <AssociationConnector Association="db_hieusachModel.FK_Receipt_Employee" ManuallyRouted="false" />
+        <AssociationConnector Association="db_hieusachModel.FK_Import_Vendor" ManuallyRouted="false" />
+        <AssociationConnector Association="db_hieusachModel.FK_ImportDetail_Import" ManuallyRouted="false" />
+        <AssociationConnector Association="db_hieusachModel.FK_ReceiptDetail_Receipt" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
